@@ -10,9 +10,9 @@ greenrift@greenriftsoftware.com (reference pcn13)
 
 Usage:
 
-1) Download Corona SDK from http://www.coronalabs.com (it's FREE!)
-2) Clone the repository
-3) Open the Corona SDK Simulator and open the main.lua found in this repo
+1) Download Corona SDK from http://www.coronalabs.com (it's FREE!)<br/>
+2) Clone the repository<br/>
+3) Open the Corona SDK Simulator and open the main.lua found in this repo<br/>
 4) Enjoy!
 
 
